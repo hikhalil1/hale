@@ -1,0 +1,46 @@
+<style>
+
+  h1 {
+    color: magenta;
+    font-size: 24px;
+  }
+  h2 {
+    color: blue;
+    font-size: 13px;
+
+  }
+  p {
+    color: gray;
+    background-color: #01017b;
+    border-radius: 50%;
+    max-width: 60%;
+    line-height: 1.5em;
+  }
+  .headers {
+    opacity: 1;
+  }
+  #journey{
+    color: blue;
+  }
+  #journey:hover {
+    color: purple;
+  }
+  #well {
+    font-size: 55px;
+    font-family: sans-serif;
+    color:red;
+  }
+
+  #whole{
+    background-image: url('IMG_20200629_210040.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+
+
+
+
+
+
+</style>
