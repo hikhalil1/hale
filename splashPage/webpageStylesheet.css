@@ -1,5 +1,18 @@
 <style>
 
+  nav{
+    color: #e3b00d;
+  }
+  nav li a{
+    font-size: 30px;
+    background-color: #000;
+    text-align: center;
+    justify-content: center;
+  }
+  nav li a:hover{
+    color: #ec2a0e;
+    font-size: 1.5em;
+  }
   h1 {
     color: magenta;
     font-size: 24px;
@@ -12,7 +25,7 @@
   p {
     color: gray;
     background-color: #01017b;
-    border-radius: 50%;
+
     max-width: 60%;
     line-height: 1.5em;
   }
@@ -30,17 +43,16 @@
     font-family: sans-serif;
     color:red;
   }
-
-  #whole{
-    background-image: url('IMG_20200629_210040.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-
+  #progress{
+    color: #ec0ea9;
+  }
+  body{
+    background-color: #9590eb;
+    background: linear-gradient(45deg, #9590eb 0%, #62e4ff 100%);
   }
 
-
-
-
-
+  footer{
+    color: rgba(50,220,255,1);
+  }
 
 </style>
